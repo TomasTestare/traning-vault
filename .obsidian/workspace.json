@@ -150,13 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Disposition av test"
+              "title": "Disposition"
             }
           }
         ]
@@ -178,8 +177,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9eb05972d41b761d",
+  "active": "559ca11664ea8cf5",
   "lastOpenFiles": [
+    "test.md",
     "träning/Pass",
     "Namnlös.md",
     "träning/Anteckningar",
