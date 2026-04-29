@@ -3,15 +3,11 @@
 
 - **Bänkpress**
 
-- **Pinbänk**
-
-  - 3 set
-
 ## Superset
 
 Utför övningarna växelvis.
 
-- **Bröstpress** – 5 set 
+- **Bröstpress i maskin** – 5 set 
 
 - **Knäböj** – 5 set
 ## Superset

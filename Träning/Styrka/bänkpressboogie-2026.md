@@ -1,6 +1,6 @@
 # Bänkpressboogie 2026
 
-Data exporterad från Excel (Sheet2) till Markdown.
+
 
 | 0   | 1        | 2    |
 |-----|----------|------|
