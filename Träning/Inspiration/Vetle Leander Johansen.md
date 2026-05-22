@@ -1,0 +1,1 @@
+Tränare för Norsk skiclassic teamet Swenor där bl a Calle Halvarsson och Eric Mysen ingår
