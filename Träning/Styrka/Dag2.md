@@ -2,7 +2,6 @@
 ## Huvudövningar
 
 - **Bänkpress**
-
 ## Superset
 
 Utför övningarna växelvis.

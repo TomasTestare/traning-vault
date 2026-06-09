@@ -1,11 +1,11 @@
-
+ 
 ## Huvudövningar
 
 - **Bänkpress**
 
-- **Pinbänk**
+- Frivändning
 
-  - 3 set
+  - 5 set 5 reps
 
 ## Superset
 
