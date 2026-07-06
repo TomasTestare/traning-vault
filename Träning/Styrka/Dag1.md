@@ -20,8 +20,8 @@ Utför övningarna växelvis.
 
 - **Hantelrodd** – 3 set
 
-- **Halo med kettlebell** – 3 set
+- **Halo med viktskiva** – 3 set
 
 - **Skivstångscurl** – 3 set
 
-- **Crunch i maskin** – 3 set
+- Kabelcrunch – 3 set

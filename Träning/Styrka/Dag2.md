@@ -18,8 +18,10 @@ Utför övningarna växelvis.
 - **Benspark** – 5 set  
 ## Kompletterande övningar
 
-- **Chins** – 3 set
+- **Chins** – 5 set
 
 - **Dips** – 3 set
 
 - **Benspark** – 3 set
+
+- Kabelcrunch - 4 set
